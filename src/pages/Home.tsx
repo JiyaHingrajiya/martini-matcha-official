@@ -31,7 +31,7 @@ const Home = () => {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img
-            src={heroImage}
+            src="/lovable-uploads/f48c5ff5-7477-4e0d-a79d-7d0363863b6b.png"
             alt="Martini Matcha Hero"
             className="w-full h-full object-cover"
           />
