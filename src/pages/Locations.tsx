@@ -65,11 +65,9 @@ const Locations = () => {
       <section className="py-16 bg-primary text-primary-foreground">
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto text-center">
-            <h2 className="font-display text-3xl font-bold mb-4">
-              📍 We're Live Now!
-            </h2>
-            <p className="text-xl mb-2">Downtown Financial District</p>
-            <p className="text-lg opacity-90 mb-6">Corner of 5th & Main St • Open until 2:00 PM</p>
+            <h2 className="font-display text-3xl font-bold mb-4">📍 LOCATION</h2>
+            <p className="text-xl mb-2">100 Feet Rd, Dhanmill Compund, Chhatarpur, New Delhi, Delhi 110074</p>
+            
             <Button variant="secondary" size="lg" className="text-lg px-8 py-4">
               Get Directions
             </Button>
