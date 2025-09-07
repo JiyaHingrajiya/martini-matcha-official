@@ -91,7 +91,7 @@ const Home = () => {
               <Card key={index} className="group overflow-hidden shadow-elegant transition-elegant hover:shadow-2xl">
                 <div className="aspect-square overflow-hidden">
                   <img
-                    src={index === 1 ? "/lovable-uploads/c8589df1-449c-4905-af16-29639552b9db.png" : drink.image}
+                    src={index === 1 ? "/lovable-uploads/b1d531ba-f845-4cc9-a032-16b73165a415.png" : drink.image}
                     alt={drink.name}
                     className="w-full h-full object-cover group-hover:scale-105 transition-elegant"
                   />
