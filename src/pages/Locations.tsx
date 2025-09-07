@@ -6,8 +6,8 @@ const Locations = () => {
   const schedule = [
     {
       day: "Monday",
-      location: "Downtown Financial District",
-      address: "Corner of 5th & Main St",
+      location: "Chhatarpur Hub",
+      address: "100 Feet Rd, Dhanmill Compund, Chhatarpur, New Delhi, Delhi 110074",
       time: "7:00 AM - 2:00 PM",
       status: "confirmed",
     },
