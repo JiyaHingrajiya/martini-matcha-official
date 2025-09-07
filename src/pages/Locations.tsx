@@ -131,9 +131,7 @@ const Locations = () => {
               <Button variant="outline" size="lg" className="text-lg px-8 py-4">
                 Follow on Instagram
               </Button>
-              <Button variant="outline" size="lg" className="text-lg px-8 py-4">
-                Like on Facebook
-              </Button>
+              
             </div>
           </div>
         </div>
