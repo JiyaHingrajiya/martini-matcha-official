@@ -35,15 +35,14 @@ const Home = () => {
             alt="Martini Matcha Hero"
             className="w-full h-full object-cover"
           />
-          <div className="absolute inset-0 bg-gradient-to-r from-background/80 via-background/40 to-transparent" />
         </div>
         
         <div className="relative z-10 max-w-4xl mx-auto px-4 text-center">
-          <h1 className="font-display text-5xl md:text-7xl font-bold text-foreground mb-6">
+          <h1 className="font-display text-5xl md:text-7xl font-bold text-white mb-6 drop-shadow-lg">
             Sip the
-            <span className="text-primary block">Unexpected</span>
+            <span className="text-white block">Unexpected</span>
           </h1>
-          <p className="text-xl md:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto">
+          <p className="text-xl md:text-2xl text-white/90 mb-8 max-w-2xl mx-auto drop-shadow-md">
             Elevating your everyday ritual with sophisticated matcha drinks and high-quality baked goods.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
