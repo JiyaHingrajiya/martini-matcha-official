@@ -67,10 +67,6 @@ const Locations = () => {
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="font-display text-3xl font-bold mb-4">📍 LOCATION</h2>
             <p className="text-xl mb-2">100 Feet Rd, Dhanmill Compund, Chhatarpur, New Delhi, Delhi 110074</p>
-            
-            <Button variant="secondary" size="lg" className="text-lg px-8 py-4">
-              Get Directions
-            </Button>
           </div>
         </div>
       </section>
@@ -126,8 +122,10 @@ const Locations = () => {
               Follow us on social media for real-time updates, location changes, and special announcements.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
-              <Button variant="outline" size="lg" className="text-lg px-8 py-4">
-                Follow on Instagram
+              <Button asChild variant="outline" size="lg" className="text-lg px-8 py-4">
+                <a href="https://www.instagram.com/martinimatcha?igsh=dGNoc21oa3hicDh0" target="_blank" rel="noopener noreferrer">
+                  Follow on Instagram
+                </a>
               </Button>
               
             </div>
